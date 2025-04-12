@@ -1,0 +1,16 @@
+.main {
+    display: flex;
+    padding: 50px;
+}
+
+.main-info {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.main-image {
+    flex: 1;
+    display: flex;
+}
