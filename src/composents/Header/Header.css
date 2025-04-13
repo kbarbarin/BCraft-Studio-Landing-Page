@@ -4,6 +4,7 @@
     align-items: center;
     height: 100px;
     width: auto;
+    border-bottom: 2px solid #F8F8F8;
 }
 
 .header-logo {

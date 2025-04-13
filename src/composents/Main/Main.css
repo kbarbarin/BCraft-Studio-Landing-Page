@@ -7,29 +7,37 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
+    flex: 1;
 }
 
 .main-info-title {
     font-family: "Quicksand", sans-serif;
     font-size: 56px;
+    padding-bottom: 8px;
 }
 
 .main-info-text {
     font-family: "Quicksand", sans-serif;
     font-size: 24px;
+    padding-bottom: 28px;
 }
 
 .main-info-button {
     background-color: #5273FF;
+    color: #FFFFFF;
     padding: 10px 20px;
     border: none;
     border-radius: 60px;
+    font-size: 16px;
+    width: 250px;
+    height: 40px;
 }
 
 .main-image {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex: 1;
 }
 
 .main-image-img {
