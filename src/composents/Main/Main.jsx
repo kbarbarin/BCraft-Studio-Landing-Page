@@ -10,7 +10,7 @@ function Main() {
                 <button className="main-info-button">Travaillons ensemble →</button>
             </div>
             <div className="main-image">
-                <img src="/mainImage.png" />
+                <img className="main-image-img" src="/mainImage.png" />
             </div>
         </section>
     )

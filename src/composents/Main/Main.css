@@ -4,13 +4,35 @@
 }
 
 .main-info {
-    flex: 1;
     display: flex;
     justify-content: center;
     flex-direction: column;
 }
 
+.main-info-title {
+    font-family: "Quicksand", sans-serif;
+    font-size: 56px;
+}
+
+.main-info-text {
+    font-family: "Quicksand", sans-serif;
+    font-size: 24px;
+}
+
+.main-info-button {
+    background-color: #5273FF;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 60px;
+}
+
 .main-image {
-    flex: 1;
     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-image-img {
+    width: 100%;
+    height: 100%;
 }
