@@ -3,6 +3,7 @@ import Main from './composents/Main/Main';
 import './App.css';
 import Missions from './composents/Missions/Missions';
 import Knowledge from './composents/Knowledge/Knowledge';
+import Contact from './composents/Contact/Contact';
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
       <Main />
       <Missions />
       <Knowledge />
+      <Contact />
     </>
   )
 }
