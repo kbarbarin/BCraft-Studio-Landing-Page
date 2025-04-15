@@ -1,0 +1,36 @@
+.knowledge {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 70px;
+    /* gap: 30px; */
+}
+
+.knowledge-title {
+    font-size: 28px;
+    padding-bottom: 90px;
+}
+
+.knowledge-details {
+    display: flex;
+    
+}
+
+.knowledge-details-articles {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+.knowledge-details-articles > img {
+    width: 48px;
+    height: 48px;
+}
+
+.knowledge-details-articles > p {
+    padding-top: 10px;
+    text-align: center;
+}
