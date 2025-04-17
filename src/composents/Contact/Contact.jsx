@@ -11,7 +11,7 @@ function Contact () {
                 <label>Email</label>
                 <input type="text"/>
                 <label>Message</label>
-                <textarea rows="5"/>
+                <textarea rows="6"/>
                 <input type="submit" value="Envoyer le message" />
             </form>
         </section>

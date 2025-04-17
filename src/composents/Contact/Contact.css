@@ -23,9 +23,17 @@
     margin-bottom: 30px;
 }
 
-.contact-form > input, .contact-form > textarea {
+.contact-form > input {
     width: 600px;
     height: 40px;
+    border-radius: 15px;
+    border: 1px solid #F3F4F5;
+    margin-bottom: 12px;
+    margin-top: 5px;
+}
+
+.contact-form > textarea {
+    width: 600px;
     border-radius: 15px;
     border: 1px solid #F3F4F5;
     margin-bottom: 12px;
