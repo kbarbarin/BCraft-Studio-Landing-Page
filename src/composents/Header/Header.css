@@ -21,10 +21,14 @@
 
 .header-logo-bcraft {
  color: #5273FF;
+ font-family: "Nunito", sans-serif;
+
 }
 
 .header-logo-studio {
     color: #FF6F61;
+  font-family: "Nunito", sans-serif;
+
 }
 
 .header-nav {
