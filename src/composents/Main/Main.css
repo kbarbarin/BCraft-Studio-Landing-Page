@@ -11,13 +11,11 @@
 }
 
 .main-info-title {
-    font-family: "Quicksand", sans-serif;
     font-size: 56px;
     padding-bottom: 8px;
 }
 
 .main-info-text {
-    font-family: "Quicksand", sans-serif;
     font-size: 24px;
     padding-bottom: 28px;
 }
@@ -31,6 +29,13 @@
     font-size: 16px;
     width: 250px;
     height: 40px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.main-info-button:hover {
+    background-color: #7189f6;
+    cursor: pointer;
 }
 
 .main-image {
